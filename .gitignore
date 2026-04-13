@@ -1,0 +1,7 @@
+cifar10/
+*.pth
+cifar10/cifar-10-python.tar.gz
+cifar10/cifar-10-batches-py/
+*.pth
+cifar10/cifar-10-python.tar.gz
+cifar10/cifar-10-batches-py/
